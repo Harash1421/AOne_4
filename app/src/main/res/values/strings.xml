@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AOne_4</string>
+    <string name="Send">Send</string>
+    <string name="Send_Customer">Send For Customer</string>
+    <string name="SMS">SMS</string>
+    <string name="Message_Text">Message Text</string>
+    <string name="Phone">Phone</string>
+</resources>
